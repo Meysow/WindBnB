@@ -1,0 +1,37 @@
+.cardList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2.29rem;
+  min-height: 30vh;
+}
+
+.cardContainer {
+  width: 100%;
+  img {
+    max-height: 17rem;
+    object-fit: cover;
+    border-radius: $borderRadius;
+    -webkit-border-radius: $borderRadius;
+    -moz-border-radius: $borderRadius;
+    -ms-border-radius: $borderRadius;
+    -o-border-radius: $borderRadius;
+  }
+}
+
+.errorMessage {
+  align-self: center;
+  font-family: $font-2;
+  font-size: 1.21rem;
+  font-weight: 700;
+}
+
+@media screen and (min-width: 850px) {
+  .cardContainer {
+    max-width: 28.21rem;
+
+    image {
+      max-height: 19.21rem;
+    }
+  }
+}
