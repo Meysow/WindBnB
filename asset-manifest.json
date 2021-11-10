@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/WindBnB/static/css/main.a12bf729.chunk.css",
+    "main.js": "/WindBnB/static/js/main.5c76332f.chunk.js",
+    "main.js.map": "/WindBnB/static/js/main.5c76332f.chunk.js.map",
+    "runtime-main.js": "/WindBnB/static/js/runtime-main.0dc17499.js",
+    "runtime-main.js.map": "/WindBnB/static/js/runtime-main.0dc17499.js.map",
+    "static/js/2.de510616.chunk.js": "/WindBnB/static/js/2.de510616.chunk.js",
+    "static/js/2.de510616.chunk.js.map": "/WindBnB/static/js/2.de510616.chunk.js.map",
+    "index.html": "/WindBnB/index.html",
+    "static/css/main.a12bf729.chunk.css.map": "/WindBnB/static/css/main.a12bf729.chunk.css.map",
+    "static/js/2.de510616.chunk.js.LICENSE.txt": "/WindBnB/static/js/2.de510616.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0dc17499.js",
+    "static/js/2.de510616.chunk.js",
+    "static/css/main.a12bf729.chunk.css",
+    "static/js/main.5c76332f.chunk.js"
+  ]
+}
